@@ -1,0 +1,995 @@
+#EXTM3U
+#EXTINF:-1 group-title="Aprende En Casa" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/aec2.png",Aprende En Casa III-1 (5.2/11.2)
+https://6011c5681d877.streamlock.net:1936/video/video/playlist.m3u8
+#EXTINF:-1 group-title="Aprende En Casa" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/aec2.png",Aprende En Casa III-3 (3.2/20.1 Nal/45.3 VM)
+https://6011c5681d877.streamlock.net:1936/prueba/prueba/playlist.m3u8
+#EXTINF:-1 group-title="Aprende En Casa" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/aec2.png",Aprende En Casa III-3 (3.2/20.1 Nal/45.3 VM) (Alt.)
+http://live10.cdnmedia.tv/cngmexicolive/smil:diputados1.smil/playlist.m3u8
+#EXTINF:-1 group-title="Aprende En Casa" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/aec2.png",Aprende En Casa III-4 (14.2/22.1 Nal)
+https://6011c5681d877.streamlock.net:1936/stream/stream/playlist.m3u8
+#EXTINF:-1 group-title="Aprende En Casa" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/aec2.png",Aprende En Casa III-4 (6.3) (Alt.)
+http://mdstrm.com/live-stream-playlist_2500/5cfe8974ef9acc25607a7dec.m3u8?
+#EXTINF:-1 group-title="Aprende En Casa" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/aec2.png",Aprende En Casa III-4 (6.3/22.1 Nal)
+http://jjooliveclarovideo.akamaized.net/Content/hls/Live/Channel(tveducationch02)/index.m3u8
+#EXTINF:-1 ,EL 2
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/148606
+#EXTINF:-1 ,CANAL 4
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/148605
+#EXTINF:-1 ,CANAL 6
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/148607
+#EXTINF:-1 ,EL SALVADOR: CANAL 12
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/148608
+#EXTINF:-1 ,EL SALVADOR: TABER 17
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/148611
+#EXTINF:-1 ,EL SALVADOR: CANAL 19
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/148609
+#EXTINF:-1 ,EL SALVADOR: TVES CANAL 10
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/397186
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/VTV.png",TCS+
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20002
+#EXTINF:-1 ,CANAL 6
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/397185
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFfgKLUFzaQfD5T5BOCHnZ6WJv6MRl34FU04JUHwTbn-ol1thtnw",EL SALVADOR: TELE EL SALVADOR HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20004
+#EXTINF:-1  tvg-logo="http://glmtv.pw/logo/prestige/Chile/canal6_cl.png",EL SALVADOR: MEGAVISION Canal 19
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20003
+#EXTINF:-1  tvg-logo="http://glmtv.pw/logo/prestige/El-Salvador/canal21_megavision_sv.png",EL SALVADOR: MEGAVISION Canal 21
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/148610
+#EXTINF:-1  tvg-logo="http://glmtv.pw/logo/prestige/Chile/rec_tv_cl.png",REC 13
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20079
+#EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/683154745486381056/3opRLFb8_400x400.png",24 HORAS TVN
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/58288
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/Canal_13_2018.png",CL: CANAL 13 HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20024
+#EXTINF:-1  tvg-logo="http://glmtv.pw/logo/prestige/Chile/tvn-cl.png",CL: TVN CHILE
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20053
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Chilevisi%C3%B3n_%282018-%29.png/1200px-Chilevisi%C3%B3n_%282018-%29.png",CL: CHILEVISION
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/58298
+#EXTINF:-1  tvg-logo="http://glmtv.pw/logo/prestige/Chile/tv-chile-cl.png",CL: CHV CHILE
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20066
+#EXTINF:-1  tvg-logo="http://glmtv.pw/logo/prestige/Chile/13c-cl.png",CL: CANAL 13i HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/58296
+#EXTINF:-1  tvg-logo="http://glmtv.pw/logo/prestige/United-States/cnn_espanol.png",CL: CNN ESPANOL_CHILE
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20105
+#EXTINF:-1  tvg-logo="http://glmtv.pw/logo/prestige/Chile/enlace.png",CL: ENLACE TV
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/58293
+#EXTINF:-1  tvg-logo="http://glmtv.pw/logo/prestige/Ecuador/etv_la.png",CL: ETC TV
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/58289
+#EXTINF:-1  tvg-logo="http://glmtv.pw/logo/prestige/United-States/fox_sports_1_cl.png",CL: FOX SPORTS 1 HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20084
+#EXTINF:-1  tvg-logo="http://glmtv.pw/logo/prestige/United-States/fox_sports_2_ar.png",CL: FOX SPORTS 2 HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/58292
+#EXTINF:-1  tvg-logo="http://images.mi.tv/channels/cl_cdf-hd_m.png",CL: DIRECTV SPORTS
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20406
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/La_Red_Logotipo.svg/1200px-La_Red_Logotipo.svg.png",CL: LA RED HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/58291
+#EXTINF:-1  tvg-logo="http://glmtv.pw/logo/prestige/Chile/lared-cl.png",CL: LA RED HD.
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/55953
+#EXTINF:-1  tvg-logo="http://glmtv.pw/logo/prestige/Chile/mega_cl.png",CL: MEGA
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/55952
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/2015megaoficial.png/200px-2015megaoficial.png",CL: MEGA HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/58290
+#EXTINF:-1  tvg-logo="http://glmtv.pw/logo/prestige/Chile/tv-chile-cl.png",CL: TV CHILE HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/58305
+#EXTINF:-1  tvg-logo="http://glmtv.pw/logo/prestige/Chile/t13-cl.png",CL: T13 MOVIL
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/58306
+#EXTINF:-1  tvg-logo="http://glmtv.pw/logo/prestige/Chile/teletrak-cl.png",CL: TELETRAK (CHILE)
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20187
+#EXTINF:-1  tvg-logo="http://glmtv.pw/logo/prestige/Chile/tvn-cl.png",CL: TVN HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/58283
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Ucvtvlogo2014mejorado.png/1200px-Ucvtvlogo2014mejorado.png",CL: UCV CHILE
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20065
+#EXTINF:-1  tvg-logo="http://glmtv.pw/logo/prestige/Chile/TVU.png",CL: TVU Concepcion
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20000
+#EXTINF:-1 group-title="Lista 22",AZTECA UNO MX
+http://blackghost.live/play/futvall-617.php?id=aztecauno&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",CANAL 2 MX
+http://blackghost.live/play/futvall-617.php?id=eldos&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",CANAL 5 MX
+http://blackghost.live/play/futvall-617.php?id=elcinco&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",AZTECA 7 MX
+http://blackghost.live/play/futvall-617.php?id=azteca7&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",IMAGEN TV
+http://blackghost.live/play/futvall-617.php?id=imagentv&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",SPACE
+http://blackghost.live/play/futvall-617.php?id=space&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",ADRENALINA
+http://blackghost.live/play/futvall-617.php?id=adrenalina&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",AFIZZIONADOS
+http://blackghost.live/play/futvall-617.php?id=afizzionados&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",BASKET AMERICAS
+http://blackghost.live/play/futvall-617.php?id=basket&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",BEIN SPORTS Ñ
+http://blackghost.live/play/futvall-617.php?id=beines&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",BEIN US HD
+http://blackghost.live/play/futvall-617.php?id=beinhd&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",DIRECTV SPORTS
+http://blackghost.live/play/futvall-617.php?id=directv&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",DIRECTV 2
+http://blackghost.live/play/futvall-617.php?id=directv2&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",CLARO SPORTS
+http://blackghost.live/play/futvall-617.php?id=clarosports&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",ESPN Deportes
+http://blackghost.live/play/futvall-617.php?id=espndep&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",ESPN 1 MX
+http://blackghost.live/play/futvall-617.php?id=espn1-mx&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",ESPN 2 MX
+http://blackghost.live/play/futvall-617.php?id=espn2-mx&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",ESPN 3 MX
+http://blackghost.live/play/futvall-617.php?id=espn3-mx&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",ESPN EXTRA
+http://blackghost.live/play/futvall-617.php?id=espnextra-mx&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",FOX SPORTS 1 MX
+http://blackghost.live/play/futvall-617.php?id=foxsports1-mx&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",FOX SPORTS 3 MX
+http://blackghost.live/play/futvall-617.php?id=foxsports3-mx&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",FOX SPORTS PREMIUM
+http://blackghost.live/play/futvall-617.php?id=foxsportsp&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",GALAVISION
+http://blackghost.live/play/futvall-617.php?id=galavision&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",GOL PERU
+http://blackghost.live/play/futvall-617.php?id=golperu&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",GOLTV
+http://blackghost.live/play/futvall-617.php?id=goltv&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",HAVOC
+http://blackghost.live/play/futvall-617.php?id=havoc&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",NFL NETWORK
+http://blackghost.live/play/futvall-617.php?id=nfl&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",LAS Deportes
+http://blackghost.live/play/futvall-617.php?id=las&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",LALIGA
+http://blackghost.live/play/futvall-617.php?id=laliga&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",M LALIGA
+http://blackghost.live/play/futvall-617.php?id=mlaliga&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",M LIGA DE CAMPEONES
+http://blackghost.live/play/futvall-617.php?id=mligadec&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",TELEMUNDO
+http://blackghost.live/play/futvall-617.php?id=telemundo&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",TUDN MX
+http://blackghost.live/play/futvall-617.php?id=tudn-mx&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",TUDN US
+http://blackghost.live/play/futvall-617.php?id=tudn-us&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",TyC SPORTS
+http://blackghost.live/play/futvall-617.php?id=tycsports&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",UNIMAS
+http://blackghost.live/play/futvall-617.php?id=unimas&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",UNIVERSO
+http://blackghost.live/play/futvall-617.php?id=universo&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",WIN SPORTS
+http://blackghost.live/play/futvall-617.php?id=winsports&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",WIN SPORTS PLUS
+http://blackghost.live/play/futvall-617.php?id=winplus&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",FIGHT TIME
+http://blackghost.live/play/futvall-617.php?id=fight&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",UFC
+http://blackghost.live/play/futvall-617.php?id=ufc&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",WWE
+http://blackghost.live/play/futvall-617.php?id=wwe&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",A MAS MX
+http://blackghost.live/play/mitv-617.php?id=amas&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",AZTECA UNO MX
+http://blackghost.live/play/mitv-617.php?id=aztecauno&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",CANAL 5 MX
+http://blackghost.live/play/mitv-617.php?id=elcinco&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",AZTECA 7
+http://blackghost.live/play/mitv-617.php?id=azteca7&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",ONCE TV HD
+http://blackghost.live/play/mitv-617.php?id=oncetvhd&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",GALAVISION
+http://blackghost.live/play/mitv-617.php?id=galavision&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",TELEMUNDO
+http://blackghost.live/play/mitv-617.php?id=telemundo&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",UNIMAS
+http://blackghost.live/play/mitv-617.php?id=unimas&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",AZ CORAZON
+http://blackghost.live/play/mitv-617.php?id=azcorazon&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",A&amp;E
+http://blackghost.live/play/mitv-617.php?id=ae&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",AXN
+http://blackghost.live/play/mitv-617.php?id=axn&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",COMEDY CENTRAL
+http://blackghost.live/play/mitv-617.php?id=comedy&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",Entertaiment
+http://blackghost.live/play/mitv-617.php?id=e&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",FOX Channel
+http://blackghost.live/play/mitv-617.php?id=starch&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",FOX LIFE
+http://blackghost.live/play/mitv-617.php?id=starlife&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",FX
+http://blackghost.live/play/mitv-617.php?id=fx&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",INVESTIGATION Discovery
+http://blackghost.live/play/mitv-617.php?id=id&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",PASIONES
+http://blackghost.live/play/mitv-617.php?id=pasiones&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",TLNovelas
+http://blackghost.live/play/mitv-617.php?id=tlnovelas&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",Tele Novelas
+http://blackghost.live/play/mitv-617.php?id=univtln&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",TBS
+http://blackghost.live/play/mitv-617.php?id=tbs&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",TNT Series
+http://blackghost.live/play/mitv-617.php?id=tntseries&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",WARNER TV
+http://blackghost.live/play/mitv-617.php?id=warner&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",AZ CINEMA
+http://blackghost.live/play/mitv-617.php?id=azcinema&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",AMC
+http://blackghost.live/play/mitv-617.php?id=amc&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",CINECANAL
+http://blackghost.live/play/mitv-617.php?id=cinecanal&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",CINEMAX
+http://blackghost.live/play/mitv-617.php?id=cinemax&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",DE PELICULA
+http://blackghost.live/play/mitv-617.php?id=depelicula&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",DHE
+http://blackghost.live/play/mitv-617.php?id=dhe&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",EUROPA
+http://blackghost.live/play/mitv-617.php?id=europa&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",FILM &amp; ARTS
+http://blackghost.live/play/mitv-617.php?id=filmarts&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",FXM
+http://blackghost.live/play/mitv-617.php?id=fxm&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",MULTICINEMA
+http://blackghost.live/play/mitv-617.php?id=mc&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",MULTIPREMIER
+http://blackghost.live/play/mitv-617.php?id=mp&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",PARAMOUNT Channel
+http://blackghost.live/play/mitv-617.php?id=paramount&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",SPACE
+http://blackghost.live/play/mitv-617.php?id=space&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",SYFY
+http://blackghost.live/play/mitv-617.php?id=syfy&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",TNT
+http://blackghost.live/play/mitv-617.php?id=tnt&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",AZ MUNDO
+http://blackghost.live/play/mitv-617.php?id=azmundo&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",ANIMAL Planet
+http://blackghost.live/play/mitv-617.php?id=animalp&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",Discovery SCIENCE
+http://blackghost.live/play/mitv-617.php?id=dciencia&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",Discovery CIVILIZATION
+http://blackghost.live/play/mitv-617.php?id=dcivil&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",Discovery THEATER
+http://blackghost.live/play/mitv-617.php?id=dtheater&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",Discovery TURBO
+http://blackghost.live/play/mitv-617.php?id=dturbo&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",FOOD Network
+http://blackghost.live/play/mitv-617.php?id=food&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",LIFE TIME
+http://blackghost.live/play/mitv-617.php?id=lifetime&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",HISTORY Channel
+http://blackghost.live/play/mitv-617.php?id=history&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",Histrory 2
+http://blackghost.live/play/mitv-617.php?id=h2&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",Home &amp; Health
+http://blackghost.live/play/mitv-617.php?id=hh&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",HOLA TV
+http://blackghost.live/play/mitv-617.php?id=holatv&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",MAS CHIC
+http://blackghost.live/play/mitv-617.php?id=maschic&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",NATGEO
+http://blackghost.live/play/mitv-617.php?id=natgeo&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",Natgeo WILD
+http://blackghost.live/play/mitv-617.php?id=natgeowild&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",TLC Discovery
+http://blackghost.live/play/mitv-617.php?id=tlc&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",CINE SONY
+http://blackghost.live/play/mitv-617.php?id=cinesony&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",D PELICULA CLASICO
+http://blackghost.live/play/mitv-617.php?id=depeliculaclasico&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",Golden EDGE
+http://blackghost.live/play/mitv-617.php?id=goldenedge&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",GOLDEN Plus
+http://blackghost.live/play/mitv-617.php?id=goldenplus&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",HBO
+http://blackghost.live/play/mitv-617.php?id=hbo&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",HBO 2
+http://blackghost.live/play/mitv-617.php?id=hbo2&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",HBO Plus
+http://blackghost.live/play/mitv-617.php?id=hboplus&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",HBO Family
+http://blackghost.live/play/mitv-617.php?id=hbofamily&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",HBO POP
+http://blackghost.live/play/mitv-617.php?id=hbopop&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",HBO Signature
+http://blackghost.live/play/mitv-617.php?id=hbosignature&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",HBO Xtreme
+http://blackghost.live/play/mitv-617.php?id=hboxtreme&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",STAR ACTION
+http://blackghost.live/play/mitv-617.php?id=staraction&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",STAR CINEMA
+http://blackghost.live/play/mitv-617.php?id=starcinema&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",STAR CLASSICS
+http://blackghost.live/play/mitv-617.php?id=starclassics&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",STAR HITS
+http://blackghost.live/play/mitv-617.php?id=starhits&f=.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/wx6s0Wq.jpg",Cartoon Network
+https://tv.teleclub.xyz/canales/L1/CARTOON.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/84lq03p.jpg",Disney Channel
+https://tv.teleclub.xyz/canales/L1/DISNEY.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/NLNivxd.jpg",Disney XD
+https://tv.teleclub.xyz/canales/L1/DISNEYXD.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/9FOKuui.jpg",Disney Jr
+https://tv.teleclub.xyz/canales/L1/DISNEYJR.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/bDD2PT7.jpg",NATGEO Kids
+https://tv.teleclub.xyz/canales/L1/NATGEOKIDS.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/GSclzOJ.jpg",NICK
+https://tv.teleclub.xyz/canales/L1/NICK.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/GSclzOJ.jpg",NICK MUSIC
+https://tv.teleclub.xyz/canales/L1/NICKMUSIC.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/rhHtS3j.jpg",NICK JR
+https://tv.teleclub.xyz/canales/L1/NICKJR.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/igKxn5E.jpg",Tooncast
+https://tv.teleclub.xyz/canales/L1/TOONCAST.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/4Y9uawT.png",CNN en Espanol
+https://tv.teleclub.xyz/canales/L1/CNNESPANOL.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/4Y9uawT.png",CNN en Espanol 2
+https://tv.teleclub.xyz/canales/L1/CNNESPANOL2.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/JQFsU7i.png",ADN40
+https://tv.teleclub.xyz/canales/L1/ADN40.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/qv3P4pm.png",RT en EspaÃ±ol
+https://tv.teleclub.xyz/canales/L1/RT_ESPANOL.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/WAZn1np.png",ARG | TelefÃ© Bahia Blanca [*]
+https://tv.teleclub.xyz/canales/EXTERNA_TELEFE_BAHIA.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/2ASFXGc.png",ARG | Canal IP [*]
+https://tv.teleclub.xyz/canales/EXTERNA_IP_ARG.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/uQFUby8.png",ARG | 26 TV
+https://tv.teleclub.xyz/canales/EXTERNA_26TV_ARG.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/oXfwH1i.png",ARG | Telemax [*]
+https://tv.teleclub.xyz/canales/EXTERNA_TELEMAX_ARG.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/UmUz3h6.png",UY | Canal 10 [*]
+https://tv.teleclub.xyz/canales/EXTERNA_CANAL10_UY.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/QQrz67n.jpg",PY | ABC [*]
+https://tv.teleclub.xyz/canales/EXTERNA_ABC_PY.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/74cdEvY.jpg",PY | Unicanal [*]
+https://tv.teleclub.xyz/canales/EXTERNA_UNICANAL_PY.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/D8TetXe.jpg",CL | STGO TV [*]
+https://tv.teleclub.xyz/canales/EXTERNA_STGOTV_CL.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/ZBHfa87.png",Telesur LAT [*]
+https://tv.teleclub.xyz/canales/EXTERNA_TELESUR_LAT.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/ZBHfa87.png",Telesur English [*]
+https://tv.teleclub.xyz/canales/EXTERNA_TELESUR_ENGLISH.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/Zoh8rT7.jpg",CBS News Los Angeles [*]
+https://tv.teleclub.xyz/canales/EXTERNA_CBSNEWS_LA.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/dInDwa0.png",Tierramia [*]
+https://tv.teleclub.xyz/canales/EXTERNA_TIERRAMIA.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/Ai3ZUG5.jpg",TopMusic [*]
+https://tv.teleclub.xyz/canales/EXTERNA_TOPMUSIC_247.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/cW8RoFm.jpg",EC | CCTV Quevedo [*]
+https://tv.teleclub.xyz/canales/EXTERNA_QUEVEDO_EC.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/WAZn1np.png",Telefe
+https://tv.teleclub.xyz/canales/L1/TELEFE.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/uYOLwOj.png",El trece
+https://tv.teleclub.xyz/canales/L1/ELTRECE.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/iiw3ibE.png",Lifetime
+https://tv.teleclub.xyz/canales/L1/LIFETIME.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/EaWNj3F.jpg",Hola!
+https://tv.teleclub.xyz/canales/L1/HOLATV.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/55x9NTr.jpg",Telemundo
+https://tv.teleclub.xyz/canales/L1/TELEMUNDO.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/64NEN8V.png",Tlnovelas
+https://tv.teleclub.xyz/canales/L1/TLNOVELAS.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/osmtnbz.png",Azteca Uno
+https://tv.teleclub.xyz/canales/L1/AZTECA1.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/osmtnbz.png",Azteca 7
+https://tv.teleclub.xyz/canales/L1/AZTECA7.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/abennlt.png",Galavision
+https://tv.teleclub.xyz/canales/L1/GALAVISION.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/0jYyq4K.jpg",Caracol TV
+https://tv.teleclub.xyz/canales/L1/CARACOL.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/kaTu9Qb.png",Las Estrellas TV
+https://tv.teleclub.xyz/canales/L1/LASESTRELLAS.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/xvgKK5S.png",RCN
+https://tv.teleclub.xyz/canales/L1/RCN.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/4EQM99H.jpg",A3 Series
+https://tv.teleclub.xyz/canales/L1/A3SERIES.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/fISPUww.jpg",Antena 3
+https://tv.teleclub.xyz/canales/L1/A3.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/pMWxBGL.png",TruTV
+https://tv.teleclub.xyz/canales/L1/TRUTV.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/pTPpWJi.jpg",Animal Planet
+https://tv.teleclub.xyz/canales/L1/ANIMALPLANET.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/XHF3LKK.jpg",Discovery Channel
+https://tv.teleclub.xyz/canales/L1/DISCOVERY.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/HWv6NHE.jpg",Discovery Turbo
+https://tv.teleclub.xyz/canales/L1/DTURBO.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/n8yegix.jpg",Discovery World
+https://tv.teleclub.xyz/canales/L1/DWORLD.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/dCIf15Q.jpg",Discovery Theater
+https://tv.teleclub.xyz/canales/L1/DTHEATER.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/MyPyuM2.jpg",Discovery Sciences
+https://tv.teleclub.xyz/canales/L1/DSCIENCES.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/OO9PaGb.jpg",Discovery H&H
+https://tv.teleclub.xyz/canales/L1/DHYH.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/Zp8RIL3.jpg",Investigation Discovery
+https://tv.teleclub.xyz/canales/L1/ID.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/XW8CuxK.jpg",TLC
+https://tv.teleclub.xyz/canales/L1/TLC.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/J897iGL.jpg",History Channel
+https://tv.teleclub.xyz/canales/L1/HISTORY.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/ypR4tvy.jpg",H2
+https://tv.teleclub.xyz/canales/L1/H2.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/dq6jLKm.jpg",NATGEO
+https://tv.teleclub.xyz/canales/L1/NATGEO.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/YFDNnoK.jpg",NATGEO Wild
+https://tv.teleclub.xyz/canales/L1/NATGEOWILD.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/7Vaq92j.jpg",A&E
+https://tv.teleclub.xyz/canales/L1/AYE.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/fYvrHY2.png",El Gourmet
+https://tv.teleclub.xyz/canales/L1/ELGOURMET.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/CEJRI4O.jpg",ComedyCentral
+https://tv.teleclub.xyz/canales/L1/COMEDYCENTRAL.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/pWW9ljW.jpg",Distrito Comedia
+https://tv.teleclub.xyz/canales/L1/DISTRITOCOMEDIA.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/4pK7qIc.jpg",HBO
+https://tv.teleclub.xyz/canales/L1/HBO.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/VjhL79o.jpg",HBO2
+https://tv.teleclub.xyz/canales/L1/HBO2.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/k9ctQko.jpg",HBO PLUS
+https://tv.teleclub.xyz/canales/L1/HBOPLUS.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/KQSKMwy.jpg",HBO FAMILY
+https://tv.teleclub.xyz/canales/L1/HBOFAMILY.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/sVEsqdE.jpg",HBO SIGNATURE
+https://tv.teleclub.xyz/canales/L1/HBOSIGNATURE.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/UWB6lC9.jpg",HBO MUNDI
+https://tv.teleclub.xyz/canales/L1/HBOMUNDI.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/JeWg4u9.jpg",HBO POP
+https://tv.teleclub.xyz/canales/L1/HBOPOP.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/R6DVZ2A.jpg",HBO XTREME
+https://tv.teleclub.xyz/canales/L1/HBOXTREME.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/MshuPCU.png",Star Action
+https://tv.teleclub.xyz/canales/L1/FOXACTION.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/7kRGbE6.png",Star Cinema
+https://tv.teleclub.xyz/canales/L1/FOXCINEMA.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/fPeLj0u.png",Star Comedy
+https://tv.teleclub.xyz/canales/L1/FOXCOMEDY.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/dvggMbn.png",Star Classics
+https://tv.teleclub.xyz/canales/L1/FOXCLASSIC.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/5eYXAxv.png",Star Fun
+https://tv.teleclub.xyz/canales/L1/FOXFAMILY.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/W8qL6rh.png",Star Series
+https://tv.teleclub.xyz/canales/L1/FOXSERIES.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/ydSaYNJ.png",Star Hits
+https://tv.teleclub.xyz/canales/L1/FOXMOVIES.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/eHhcsEN.png",Star Channel
+https://tv.teleclub.xyz/canales/L1/FOX.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/cy89pWC.png",Star Life
+https://tv.teleclub.xyz/canales/L1/FOXLIFE.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/EomyGGs.jpg",AMC
+https://tv.teleclub.xyz/canales/L1/AMC.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/Db6x442.jpg",Warner TV
+https://tv.teleclub.xyz/canales/L1/WARNER.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/DrnnyVT.jpg",Universal TV
+https://tv.teleclub.xyz/canales/L1/UNIVERSAL.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/tGc5z3B.jpg",FX
+https://tv.teleclub.xyz/canales/L1/FX.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/XPgR9ky.jpg",FXM
+https://tv.teleclub.xyz/canales/L1/FXM.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/OdR3aff.jpg",AXN
+https://tv.teleclub.xyz/canales/L1/AXN.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/0OpKA6g.jpg",Sony
+https://tv.teleclub.xyz/canales/L1/SONY.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/dAQL5tZ.jpg",TNT
+https://tv.teleclub.xyz/canales/L1/TNT.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/JDNccBb.jpg",TNT Series
+https://tv.teleclub.xyz/canales/L1/TNTSERIES.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/vZLlUrl.jpg",Space
+https://tv.teleclub.xyz/canales/L1/SPACE.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/tKuGOYa.jpg",Studio Universal
+https://tv.teleclub.xyz/canales/L1/STUDIOUNIVERSAL.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/EOS4pd9.jpg",TBS
+https://tv.teleclub.xyz/canales/L1/TBS.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/ysV38FI.jpg",TCM
+https://tv.teleclub.xyz/canales/L1/TCM.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/tOWSdVk.jpg",Cinecanal
+https://tv.teleclub.xyz/canales/L1/CINECANAL.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/6jPJl1q.jpg",Cinemax
+https://tv.teleclub.xyz/canales/L1/CINEMAX.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/ybgGUDk.jpg",Paramount Channel
+https://tv.teleclub.xyz/canales/L1/PARAMOUNT.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/1eKZASl.png",CINELATINO
+https://tv.teleclub.xyz/canales/L1/CINELATINO.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/DuBfKVG.jpg",Golden Plus
+https://tv.teleclub.xyz/canales/L1/GOLDEN.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/DuBfKVG.jpg",Golden Premier
+https://tv.teleclub.xyz/canales/L1/GOLDENPREMIER.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/w9FRWYm.png",DEPELICULA Plus
+https://tv.teleclub.xyz/canales/L1/DEPELICULA.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/ZAEfS2l.jpg",MTV
+https://tv.teleclub.xyz/canales/L1/MTV.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/ZAEfS2l.jpg",MTV Hits
+https://tv.teleclub.xyz/canales/L1/MTVHITS.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/ZAEfS2l.jpg",MTV 80s
+https://tv.teleclub.xyz/canales/L1/MTVLIVE.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/jD15gnL.jpg",VH1 CLASSIC
+https://tv.teleclub.xyz/canales/L1/VH1CLASSIC.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/jD15gnL.jpg",VH1
+https://tv.teleclub.xyz/canales/L1/VH1.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/J96x0Cp.png",HTV
+https://tv.teleclub.xyz/canales/L1/HTV.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/ddaqvnR.png",Bandamax
+https://tv.teleclub.xyz/canales/L1/BANDAMAX.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/hMo03Pz.png",GolPeru
+https://tv.teleclub.xyz/canales/L1/GOLPERU.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/Q9eV0bt.png",ESPN Deportes
+https://tv.teleclub.xyz/canales/L1/ESPN_DEPORTES.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/6VFa7F6.png",Estadio TNT Sports
+https://tv.teleclub.xyz/canales/L1/TNTSPORTS.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/6VFa7F6.png",TNT Sports 2
+https://tv.teleclub.xyz/canales/L1/TNTSPORTS_2.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/6VFa7F6.png",TNT Sports 3
+https://tv.teleclub.xyz/canales/L1/TNTSPORT_3.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/BvVz5TJ.png",Tigo Sports PY
+https://tv.teleclub.xyz/canales/L1/PY_TIGOSPORTS.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/BvVz5TJ.png",Tigo Sports PY +
+https://tv.teleclub.xyz/canales/L1/PY_TIGOSPORTSPLUS.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/Ci3KvrE.png",Bein Sport Ã‘
+https://tv.teleclub.xyz/canales/L1/BEINSPORTN.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/84ZytvL.png",Win Sport
+https://tv.teleclub.xyz/canales/L1/WINSPORT.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/84ZytvL.png",Win Sport Plus
+https://tv.teleclub.xyz/canales/L1/WINSPORTPLUS.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/a70GlGB.jpg",CLARO SPORT
+https://tv.teleclub.xyz/canales/L1/CLAROSPORT2.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/k7yZgTl.jpg",GOLTV
+https://tv.teleclub.xyz/canales/L1/GOLTV.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/vw05dXK.jpg",DIRECTV SPORT
+https://tv.teleclub.xyz/canales/L1/DIRECTV_SPORT.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/vw05dXK.jpg",DIRECTV SPORT 2
+https://tv.teleclub.xyz/canales/L1/DIRECTV_SPORT2.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/vw05dXK.jpg",DIRECTV SPORT PLUS
+https://tv.teleclub.xyz/canales/L1/DIRECTV_SPORTPLUS.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/xjnOlda.png",Fox Sport Premium
+https://tv.teleclub.xyz/canales/L1/FOXSPORTSPREMIUM.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/NDWwKQI.jpg",Fox Sport LAT
+https://tv.teleclub.xyz/canales/L1/FOXSPORT_LAT.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/NDWwKQI.jpg",Fox Sport 2 LAT
+https://tv.teleclub.xyz/canales/L1/FOXSPORT2_LAT.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/NDWwKQI.jpg",Fox Sport 3 LAT
+https://tv.teleclub.xyz/canales/L1/FOXSPORT3_LAT.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/NDWwKQI.jpg",Fox Sport MEX
+https://tv.teleclub.xyz/canales/L1/FOXSPORT_MEX.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/NDWwKQI.jpg",Fox Sport 2 MEX
+https://tv.teleclub.xyz/canales/L1/FOXSPORT2_MEX.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/NDWwKQI.jpg",Fox Sport 3 MEX
+https://tv.teleclub.xyz/canales/L1/FOXSPORT3_MEX.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/ZzDBSyC.jpg",ESPN LAT
+https://tv.teleclub.xyz/canales/L1/ESPN_LAT.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/ZzDBSyC.jpg",ESPN 2 LAT
+https://tv.teleclub.xyz/canales/L1/ESPN2_LAT.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/ZzDBSyC.jpg",ESPN 3 LAT
+https://tv.teleclub.xyz/canales/L1/ESPN3_LAT.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/ZzDBSyC.jpg",ESPN EXTRA LAT
+https://tv.teleclub.xyz/canales/L1/ESPNPLUS_LAT.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/ZzDBSyC.jpg",ESPN MEX
+https://tv.teleclub.xyz/canales/L1/ESPN_MEX.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/ZzDBSyC.jpg",ESPN 2 MEX
+https://tv.teleclub.xyz/canales/L1/ESPN2_MEX.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/ZzDBSyC.jpg",ESPN 3 MEX
+https://tv.teleclub.xyz/canales/L1/ESPN3_MEX.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/ZzDBSyC.jpg",ESPN EXTRA MEX
+https://tv.teleclub.xyz/canales/L1/ESPNPLUS_MEX.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/mptxVUO.png",TUDN USA
+https://tv.teleclub.xyz/canales/L1/TUDN_USA.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/mptxVUO.png",TUDN MX
+https://tv.teleclub.xyz/canales/L1/TUDN_MX.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://blackghost.live/black/img/icon.png",24/7 | Los Simpsons
+https://tv.teleclub.xyz/canales/EXTERNA_VER_SIMPSONS.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://blackghost.live/black/img/icon.png",24/7 | Los Simpsons 2
+https://tv.teleclub.xyz/canales/ONLINE_SIMPSON247.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://blackghost.live/black/img/icon.png",24/7 | Futurama
+https://tv.teleclub.xyz/canales/ONLINE_FUTURAMA247.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://blackghost.live/black/img/icon.png",24/7 | Chavo del 8
+https://tv.teleclub.xyz/canales/L1/CHAVO_8.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/fYP8zKq.png",PlutoTV | Minuto para Ganar
+https://tv.teleclub.xyz/canales/PLUTOTV_MINUTOPARAGANAR.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/fYP8zKq.png",PlutoTV | Anime
+https://tv.teleclub.xyz/canales/PLUTOTV_ANIME.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/fYP8zKq.png",PlutoTV | Cine Latino
+https://tv.teleclub.xyz/canales/PLUTOTV_CINE_LATINO.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/fYP8zKq.png",PlutoTV | Animales
+https://tv.teleclub.xyz/canales/PLUTOTV_ANIMALES.m3u8
+#EXTINF:-1 group-title="Lista 24" tvg-logo="https://i.imgur.com/fYP8zKq.png",PlutoTV | Cocina
+https://tv.teleclub.xyz/canales/PLUTOTV_COCINA.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/GSclzOJ.jpg",Nick JR
+https://tv.teleclub.xyz/canales/L2/NICKJR.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/ZAEfS2l.jpg",MTV
+https://tv.teleclub.xyz/canales/L2/MTV.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/J897iGL.jpg",History
+https://tv.teleclub.xyz/canales/L2/HISTORY.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/YFDNnoK.jpg",NatGeoWild
+https://tv.teleclub.xyz/canales/L2/NATGEOWILD.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/XHF3LKK.jpg",Discovery
+https://tv.teleclub.xyz/canales/L2/DISCOVERY.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/7Vaq92j.jpg",AE
+https://tv.teleclub.xyz/canales/L2/AE.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/tGc5z3B.jpg",FX
+https://tv.teleclub.xyz/canales/L2/FX.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/iiw3ibE.png",Lifetime
+https://tv.teleclub.xyz/canales/L2/LIFETIME.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/DrnnyVT.jpg",Universal TV
+https://tv.teleclub.xyz/canales/L2/UNIVERSAL.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/Db6x442.jpg",Warner TV
+https://tv.teleclub.xyz/canales/L2/WARNER.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/ybgGUDk.jpg",Paramount
+https://tv.teleclub.xyz/canales/L2/PARAMOUNT.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/vZLlUrl.jpg",Space
+https://tv.teleclub.xyz/canales/L2/SPACE.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/wx6s0Wq.jpg",Cartoon Network
+https://tv.teleclub.xyz/canales/L3/CARTOON.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/84lq03p.jpg",Disney Channel
+https://tv.teleclub.xyz/canales/L3/DISNEY.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/NLNivxd.jpg",Disney XD
+https://tv.teleclub.xyz/canales/L3/DISNEYXD.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/9FOKuui.jpg",Disney JR
+https://tv.teleclub.xyz/canales/L3/DISNEYJR.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/GSclzOJ.jpg",Nick
+https://tv.teleclub.xyz/canales/L3/NICK.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/yU9QqzF.png",Teen Nick
+https://tv.teleclub.xyz/canales/L3/TEENNICK.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/w916RKM.png",Nick Jr
+https://tv.teleclub.xyz/canales/L3/NICKJR.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/mE4Wt5v.png",Baby TV
+https://tv.teleclub.xyz/canales/L3/BABYTV.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/QiPgywx.png",Telemundo
+https://tv.teleclub.xyz/canales/L3/TELEMUNDO.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/iiw3ibE.png",Lifetime
+https://tv.teleclub.xyz/canales/L3/LIFETIME.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/nKibllA.png",Glitz
+https://tv.teleclub.xyz/canales/L3/GLITZ.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/nwZ62Yf.png",TruTV
+https://tv.teleclub.xyz/canales/L3/TRUTV.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/JuNDDAd.png",Las Estrellas
+https://tv.teleclub.xyz/canales/L3/LASESTRELLAS.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/kCZZZhp.png",MTV
+https://tv.teleclub.xyz/canales/L3/MTV.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/58yCdBM.png",MTV Hits
+https://tv.teleclub.xyz/canales/L3/MTVHITS.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/4TViPvJ.png",El Gourmet
+https://tv.teleclub.xyz/canales/L3/ELGOURMET.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/J897iGL.jpg",History
+https://tv.teleclub.xyz/canales/L3/HISTORY.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/ypR4tvy.jpg",H2
+https://tv.teleclub.xyz/canales/L3/H2.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/Bl12aoE.png",Discovery
+https://tv.teleclub.xyz/canales/L3/DISCOVERY.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/QXTEcVw.png",NatGeo
+https://tv.teleclub.xyz/canales/L3/NATGEO.m3u8
+#EXTINF:-1  tvg-logo="http://tv.teleclub.xyz/ver/NATGEOWILD",NatGeo Wild
+https://tv.teleclub.xyz/canales/L3/NATGEOWILD.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/nYBBYYO.png",Animal Planet
+https://tv.teleclub.xyz/canales/L3/ANIMALPLANET.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/4jJSyxE.png",Univesal TV
+https://tv.teleclub.xyz/canales/L3/UNIVERSAL.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/V65sr75.png",Cinecanal
+https://tv.teleclub.xyz/canales/L3/CINECANAL.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/QjXLCLg.png",TNT
+https://tv.teleclub.xyz/canales/L3/TNT.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/680baIn.png",AXN
+https://tv.teleclub.xyz/canales/L3/AXN.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/DG65mrj.png",FX
+https://tv.teleclub.xyz/canales/L3/FX.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/lVGC2kW.png",FXM
+https://tv.teleclub.xyz/canales/L3/FXM.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/vZLlUrl.jpg",Space
+https://tv.teleclub.xyz/canales/L3/SPACE.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/jny3QAK.png",Paramount
+https://tv.teleclub.xyz/canales/L3/PARAMOUNT.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/EYZ7eBe.png",Sony
+https://tv.teleclub.xyz/canales/L3/SONY.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/EOS4pd9.jpg",TBS
+https://tv.teleclub.xyz/canales/L3/TBS.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/Db6x442.jpg",Warner TV
+https://tv.teleclub.xyz/canales/L3/WARNER.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/4krdlGM.png",Star Action
+https://tv.teleclub.xyz/canales/L3/STARACTION.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/ZBgJDA2.png",Star Series
+https://tv.teleclub.xyz/canales/L3/STARSERIES.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/49Z7vBe.png",Star Fun
+https://tv.teleclub.xyz/canales/L3/STARFUN.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/U5TMnGD.png",Star Comedy
+https://tv.teleclub.xyz/canales/L3/STARCOMEDY.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/O5IvT7k.png",Star Hits
+https://tv.teleclub.xyz/canales/L3/STARHITS.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/He33NZC.png",Star Life
+https://tv.teleclub.xyz/canales/L3/STARLIFE.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/u2lgAVF.png",Star Cinema
+https://tv.teleclub.xyz/canales/L3/STARCINEMA.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/wx6s0Wq.jpg",Cartoon Network
+https://tv.teleclub.xyz/canales/L4/CARTOON.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/84lq03p.jpg",Disney Channel
+https://tv.teleclub.xyz/canales/L4/DISNEY.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/NLNivxd.jpg",Disney XD
+https://tv.teleclub.xyz/canales/L4/DISNEYXD.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/9FOKuui.jpg",Disney Jr
+https://tv.teleclub.xyz/canales/L4/DISNEYJR.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/bDD2PT7.jpg",NATGEO Kids
+https://tv.teleclub.xyz/canales/L4/NATGEOKIDS.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/GSclzOJ.jpg",NICK
+https://tv.teleclub.xyz/canales/L4/NICK.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/GSclzOJ.jpg",TEEN NICK
+https://tv.teleclub.xyz/canales/L4/TEENNICK.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/GSclzOJ.jpg",NICK MUSIC
+https://tv.teleclub.xyz/canales/L4/NICKMUSIC.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/rhHtS3j.jpg",NICK JR
+https://tv.teleclub.xyz/canales/L4/NICKJR.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/n3eZIO3.png",BabyTV
+https://tv.teleclub.xyz/canales/L4/BABYTV.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/brvWB3u.png",Discovery Kids
+https://tv.teleclub.xyz/canales/L4/DKIDS.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/igKxn5E.jpg",Tooncast
+https://tv.teleclub.xyz/canales/L4/TOONCAST.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/k3NGPAh.jpg",CNN Internacional
+https://tv.teleclub.xyz/canales/L4/CNNINT.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/4Y9uawT.png",CNN en Espanol
+https://tv.teleclub.xyz/canales/L4/CNNESPANOL.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/4Y9uawT.png",CNN en Espanol 2
+https://tv.teleclub.xyz/canales/L4/CNNESPANOL2.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/E1selri.png",CNN Chile
+https://tv.teleclub.xyz/canales/L4/CNN_CHILE.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/ngBYCo9.png",24 Horas
+https://tv.teleclub.xyz/canales/L4/24HORAS.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/JQFsU7i.png",ADN40
+https://tv.teleclub.xyz/canales/L4/ADN40.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/bEebu04.png",Bloomberg
+https://tv.teleclub.xyz/canales/L4/BLOOMBERGLAT.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/bEebu04.png",Bloomberg [2]
+https://tv.teleclub.xyz/canales/L4/BLOOMBERG_LAT.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/hMon4qd.png",CHV
+https://tv.teleclub.xyz/canales/L4/CHV.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/VZH3c3O.png",El nueve
+https://tv.teleclub.xyz/canales/L4/ELNUEVE.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/WAZn1np.png",Telefe
+https://tv.teleclub.xyz/canales/L4/TELEFE.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/uYOLwOj.png",El trece
+https://tv.teleclub.xyz/canales/L4/ELTRECE.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/iiw3ibE.png",Lifetime
+https://tv.teleclub.xyz/canales/L4/LIFETIME.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/kp0Ikcj.png",MasChic
+https://tv.teleclub.xyz/canales/L4/MASCHIC.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/EaWNj3F.jpg",Hola!
+https://tv.teleclub.xyz/canales/L4/HOLATV.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/55x9NTr.jpg",Telemundo
+https://tv.teleclub.xyz/canales/L4/TELEMUNDO.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/64NEN8V.png",Tlnovelas
+https://tv.teleclub.xyz/canales/L4/TLNOVELAS.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/osmtnbz.png",Azteca Uno
+https://tv.teleclub.xyz/canales/L4/AZTECA1.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/osmtnbz.png",Azteca 7
+https://tv.teleclub.xyz/canales/L4/AZTECA7.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/R5EdxXG.png",Az Corazon
+https://tv.teleclub.xyz/canales/L4/AZCORAZON.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/xn35v8c.png",Univision
+https://tv.teleclub.xyz/canales/L4/UNIVISION.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/0jYyq4K.jpg",Caracol TV
+https://tv.teleclub.xyz/canales/L4/CARACOLTV.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/4EQM99H.jpg",A3 Series
+https://tv.teleclub.xyz/canales/L4/A3SERIES.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/fISPUww.jpg",Antena 3
+https://tv.teleclub.xyz/canales/L4/A3.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/pMWxBGL.png",TruTV
+https://tv.teleclub.xyz/canales/L4/TRUTV.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/1WgmrLn.png",Glitz
+https://tv.teleclub.xyz/canales/L4/GLITZ.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/kaTu9Qb.png",Las Estrellas TV
+https://tv.teleclub.xyz/canales/L4/LASESTRELLAS.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/xvgKK5S.png",RCN
+https://tv.teleclub.xyz/canales/L4/RCN.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/pTPpWJi.jpg",Animal Planet
+https://tv.teleclub.xyz/canales/L4/ANIMALPLANET.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/XHF3LKK.jpg",Discovery Channel
+https://tv.teleclub.xyz/canales/L4/DISCOVERY.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/HWv6NHE.jpg",Discovery Turbo
+https://tv.teleclub.xyz/canales/L4/DTURBO.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/n8yegix.jpg",Discovery World
+https://tv.teleclub.xyz/canales/L4/DWORLD.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/dCIf15Q.jpg",Discovery Theater
+https://tv.teleclub.xyz/canales/L4/DTHEATER.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/MyPyuM2.jpg",Discovery Sciences
+https://tv.teleclub.xyz/canales/L4/DSCIENCES.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/OO9PaGb.jpg",Discovery H&H
+https://tv.teleclub.xyz/canales/L4/DHYH.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/Zp8RIL3.jpg",Investigation Discovery
+https://tv.teleclub.xyz/canales/L4/ID.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/XW8CuxK.jpg",TLC
+https://tv.teleclub.xyz/canales/L4/TLC.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/J897iGL.jpg",History Channel
+https://tv.teleclub.xyz/canales/L4/HISTORY.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/ypR4tvy.jpg",History 2
+https://tv.teleclub.xyz/canales/L4/H2.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/dq6jLKm.jpg",NATGEO
+https://tv.teleclub.xyz/canales/L4/NATGEO.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/YFDNnoK.jpg",NATGEO Wild
+https://tv.teleclub.xyz/canales/L4/NATGEOWILD.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/7Vaq92j.jpg",A&E
+https://tv.teleclub.xyz/canales/L4/AYE.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/fYvrHY2.png",El Gourmet
+https://tv.teleclub.xyz/canales/L4/ELGOURMET.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/CEJRI4O.jpg",ComedyCentral
+https://tv.teleclub.xyz/canales/L4/COMEDYCENTRAL.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/pWW9ljW.jpg",Distrito Comedia
+https://tv.teleclub.xyz/canales/L4/DISTRITOCOMEDIA.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/4pK7qIc.jpg",HBO
+https://tv.teleclub.xyz/canales/L4/HBO.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/VjhL79o.jpg",HBO2
+https://tv.teleclub.xyz/canales/L4/HBO2.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/k9ctQko.jpg",HBO PLUS
+https://tv.teleclub.xyz/canales/L4/HBOPLUS.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/KQSKMwy.jpg",HBO FAMILY
+https://tv.teleclub.xyz/canales/L4/HBOFAMILY.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/sVEsqdE.jpg",HBO SIGNATURE
+https://tv.teleclub.xyz/canales/L4/HBOSIGNATURE.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/UWB6lC9.jpg",HBO MUNDI
+https://tv.teleclub.xyz/canales/L4/HBOMUNDI.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/JeWg4u9.jpg",HBO POP
+https://tv.teleclub.xyz/canales/L4/HBOPOP.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/R6DVZ2A.jpg",HBO XTREME
+https://tv.teleclub.xyz/canales/L4/HBOXTREME.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/7hYf69M.jpg",STAR Action
+https://tv.teleclub.xyz/canales/L4/FOXACTION.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/RefOTUQ.jpg",STAR Cinema
+https://tv.teleclub.xyz/canales/L4/FOXCINEMA.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/Bu51K0m.jpg",STAR Comedy
+https://tv.teleclub.xyz/canales/L4/FOXCOMEDY.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/ex7EVPH.jpg",STAR Classic
+https://tv.teleclub.xyz/canales/L4/FOXCLASSIC.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/FtsDvN9.jpg",STAR FUN
+https://tv.teleclub.xyz/canales/L4/FOXFAMILY.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/fyA3yba.jpg",STAR Series
+https://tv.teleclub.xyz/canales/L4/FOXSERIES.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/DKVUnwn.jpg",STAR Hits
+https://tv.teleclub.xyz/canales/L4/FOXMOVIES.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/jC9jPwt.jpg",Star Channel
+https://tv.teleclub.xyz/canales/L4/FOX.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/UpUxOYs.jpg",Fox Life
+https://tv.teleclub.xyz/canales/L4/FOXLIFE.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/EomyGGs.jpg",AMC
+https://tv.teleclub.xyz/canales/L4/AMC.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/Db6x442.jpg",Warner TV
+https://tv.teleclub.xyz/canales/L4/WARNER.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/DrnnyVT.jpg",Universal TV
+https://tv.teleclub.xyz/canales/L4/UNIVERSAL.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/tGc5z3B.jpg",FX
+https://tv.teleclub.xyz/canales/L4/FX.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/XPgR9ky.jpg",FXM
+https://tv.teleclub.xyz/canales/L4/FXM.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/OdR3aff.jpg",AXN
+https://tv.teleclub.xyz/canales/L4/AXN.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/0OpKA6g.jpg",Sony Channel
+https://tv.teleclub.xyz/canales/L4/SONY.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/dAQL5tZ.jpg",TNT
+https://tv.teleclub.xyz/canales/L4/TNT.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/JDNccBb.jpg",TNT Series
+https://tv.teleclub.xyz/canales/L4/TNTSERIES.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/vZLlUrl.jpg",Space
+https://tv.teleclub.xyz/canales/L4/SPACE.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/tKuGOYa.jpg",Studio Universal
+https://tv.teleclub.xyz/canales/L4/STUDIOUNIVERSAL.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/EOS4pd9.jpg",TBS
+https://tv.teleclub.xyz/canales/L4/TBS.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/ysV38FI.jpg",TCM
+https://tv.teleclub.xyz/canales/L4/TCM.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/tOWSdVk.jpg",Cinecanal
+https://tv.teleclub.xyz/canales/L4/CINECANAL.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/6jPJl1q.jpg",Cinemax
+https://tv.teleclub.xyz/canales/L4/CINEMAX.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/ybgGUDk.jpg",Paramount Channel
+https://tv.teleclub.xyz/canales/L4/PARAMOUNT.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/1eKZASl.png",CINELATINO
+https://tv.teleclub.xyz/canales/L4/CINELATINO.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/DuBfKVG.jpg",Golden
+https://tv.teleclub.xyz/canales/L4/GOLDEN.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/DuBfKVG.jpg",Golden Premier
+https://tv.teleclub.xyz/canales/L4/GOLDENPREMIER.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/w9FRWYm.png",DEPELICULA
+https://tv.teleclub.xyz/canales/L4/DEPELICULA.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/ZAEfS2l.jpg",MTV
+https://tv.teleclub.xyz/canales/L4/MTV.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/ZAEfS2l.jpg",MTV Live
+https://tv.teleclub.xyz/canales/L4/MTVLIVE.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/ZAEfS2l.jpg",MTV Hits
+https://tv.teleclub.xyz/canales/L4/MTVHITS.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/jD15gnL.jpg",VH1 CLASSIC
+https://tv.teleclub.xyz/canales/L4/VH1CLASSIC.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/jD15gnL.jpg",VH1
+https://tv.teleclub.xyz/canales/L4/VH1.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/sQgcpZY.png",TNT SPORT
+https://tv.teleclub.xyz/canales/L4/TNTSPORTS.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/vw05dXK.jpg",DIRECTV SPORT
+https://tv.teleclub.xyz/canales/L4/DIRECTV_SPORT.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/vw05dXK.jpg",DIRECTV SPORT 2
+https://tv.teleclub.xyz/canales/L4/DIRECTV_SPORT2.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/vw05dXK.jpg",DIRECTV SPORT PLUS
+https://tv.teleclub.xyz/canales/L4/DIRECTV_SPORTPLUS.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/TIGfZjN.jpg",AyM Sport
+https://tv.teleclub.xyz/canales/L4/AYMSPORT.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/NDWwKQI.jpg",Fox Sport LAT
+https://tv.teleclub.xyz/canales/L4/FOXSPORT_LAT.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/NDWwKQI.jpg",Fox Sport 2 LAT
+https://tv.teleclub.xyz/canales/L4/FOXSPORT2_LAT.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/NDWwKQI.jpg",Fox Sport 3 LAT
+https://tv.teleclub.xyz/canales/L4/FOXSPORT3_LAT.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/NDWwKQI.jpg",Fox Sport MEX
+https://tv.teleclub.xyz/canales/L4/FOXSPORT_MEX.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/NDWwKQI.jpg",Fox Sport 2 MEX
+https://tv.teleclub.xyz/canales/L4/FOXSPORT2_MEX.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/NDWwKQI.jpg",Fox Sport 3 MEX
+https://tv.teleclub.xyz/canales/L4/FOXSPORT3_MEX.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/ZzDBSyC.jpg",ESPN LAT
+https://tv.teleclub.xyz/canales/L4/ESPN_LAT.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/ZzDBSyC.jpg",ESPN 2 LAT
+https://tv.teleclub.xyz/canales/L4/ESPN2_LAT.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/ZzDBSyC.jpg",ESPN 3 LAT
+https://tv.teleclub.xyz/canales/L4/ESPN3_LAT.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/ZzDBSyC.jpg",ESPN EXTRA LAT
+https://tv.teleclub.xyz/canales/L4/ESPNPLUS_LAT.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/ZzDBSyC.jpg",ESPN MEX
+https://tv.teleclub.xyz/canales/L4/ESPN_MEX.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/ZzDBSyC.jpg",ESPN 2 MEX
+https://tv.teleclub.xyz/canales/L4/ESPN2_MEX.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/ZzDBSyC.jpg",ESPN 3 MEX
+https://tv.teleclub.xyz/canales/L4/ESPN3_MEX.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/ZzDBSyC.jpg",ESPN EXTRA MEX
+https://tv.teleclub.xyz/canales/L4/ESPNPLUS_MEX.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/lLeq98m.png",ECDF : El Canal del Futbol
+https://tv.teleclub.xyz/canales/L4/ECDF.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/k7yZgTl.jpg",GOLTV
+https://tv.teleclub.xyz/canales/L4/GOLTV.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/k7yZgTl.jpg",GOLTV ALT
+https://tv.teleclub.xyz/canales/L4/GOLTV2.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/a70GlGB.jpg",CLARO SPORT
+https://tv.teleclub.xyz/canales/L4/CLAROSPORT.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/a70GlGB.jpg",CLARO SPORT 2
+https://tv.teleclub.xyz/canales/L4/CLAROSPORT2.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/mptxVUO.png",TUDN USA
+https://tv.teleclub.xyz/canales/L4/TUDN_USA.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/qyrzMjg.jpg",GOLF TV
+https://tv.teleclub.xyz/canales/L4/GOLFTV.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/FjWnkUZ.png",GARAGE TV
+https://tv.teleclub.xyz/canales/L4/GARAGETV.m3u8
+#EXTINF:-1 group-title="FTA (LOCALES LIBRES)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/c10.jpg",Canal 10 Chetumal | HD
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+#EXTINF:-1 group-title="FTA (LOCALES LIBRES)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/onceint.png",Canal Once IPN  Int. | HD
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
+#EXTINF:-1 group-title="FTA (LOCALES LIBRES)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ochotv.png",Quiero TV | SD
+https://quierotvlive.tk/httplive/playlist_playlist.m3u8
+#EXTINF:-1 group-title="FTA (LOCALES LIBRES)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/rcg.jpg",Canal 4 RCG | SD
+http://162.241.190.126:1935/live/canal4/playlist.m3u8
+#EXTINF:-1 group-title="FTA (LOCALES LIBRES)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/rcg.jpg",RCG 2 | SD
+http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
+#EXTINF:-1 group-title="FTA (LOCALES LIBRES)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/rcg.jpg",RCG 3 | SD
+http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
+#EXTINF:-1 group-title="FTA (LOCALES LIBRES)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhimt2.png",A+ METROPOLITANO
+https://dai.google.com/linear/hls/event/SJysMl45QMSwjo0TodSk1Q/master.m3u8
+#EXTINF:-1 group-title="FTA (LOCALES LIBRES)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/opma.png",CANAL CATORCE
+https://d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/index_1.m3u8
+#EXTINF:-1 group-title="FTA (LOCALES LIBRES)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/opma.png",CANAL CATORCE
+https://live2.canaloncelive.tv/spr/smil:spr.smil/playlist.m3u8
+#EXTINF:-1 group-title="FTA (LOCALES LIBRES)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/can22.jpg",CANAL 22
+https://5fe2654d6127d.streamlock.net/canal22/videocanal22/playlist.m3u8
+#EXTINF:-1 group-title="FTA (LOCALES LIBRES)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhgem.jpg",MEXIQUENSE TELEVISIÓN
+https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
+#EXTINF:-1 group-title="FTA (LOCALES LIBRES)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/amx.jpg",AMX NOTICIAS
+https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
+#EXTINF:-1 group-title="FTA (LOCALES LIBRES)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/set.png",SET TELEVISIÓN PUEBLA
+http://189.240.210.28:1935/envivo/puecom/playlist.m3u8
+#EXTINF:-1 group-title="FTA (LOCALES LIBRES)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tv4.png",TV CUATRO
+https://5f1af61612fb5.streamlock.net/tv4/videotv4_720p/playlist.m3u8
+#EXTINF:-1 group-title="FTA (LOCALES LIBRES)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tv4.png",TV CUATRO MEDIA
+https://5f2c1b0d880e5.streamlock.net/tv42/videotv42_720p/playlist.m3u8
+#EXTINF:-1 group-title="FTA (LOCALES LIBRES)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tv4.png",TV CUATRO EXPRESA (ESPEJO 14.2/22.1 NAL)
+https://5f1af61612fb5.streamlock.net/tv43/videotv43_720p/playlist.m3u8
+#EXTINF:-1 group-title="FTA (LOCALES LIBRES)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/imryt.png",IMRyT
+http://162.244.80.175:1935/live/ngrp:tvmorelos_all/playlist.m3u8
+#EXTINF:-1 group-title="FTA (LOCALES LIBRES)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/capital.png",C21 CDMX
+https://video.cdmx.gob.mx/livestream/stream.m3u8
+#EXTINF:-1 group-title="FTA (LOCALES LIBRES)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/diez.png",DIEZ CHIAPAS
+https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8
+#EXTINF:-1 group-title="FTA (LOCALES LIBRES)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tvmasver.jpg",TV MAS 26.1 (ESPEJO 3.2/20.1 NAL/45.3 VM)
+https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
+#EXTINF:-1 group-title="FTA (LOCALES LIBRES)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/sizart.png",SIZART CANAL 24 (ESPEJO 3.2/20.1 NAL/45.3 VM DIF.)
+https://5ca9af4645e15.streamlock.net/zacatecas/videozacatecas/playlist.m3u8
+#EXTINF:-1 group-title="FTA (LOCALES LIBRES)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/rtq.png",RTQ
+http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
+#EXTINF:-1 group-title="FTA (LOCALES LIBRES)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/sur.png",TELESUR
+https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/playlist.m3u8
